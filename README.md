@@ -2,9 +2,7 @@
 - 👀 I’m interested in developing several random things.
 - 🌱 I’m currently learning REACT.
 - 💞️ I'm looking to collaborate on Front-End/Web Design.
-- 📫 How to reach me contact@architecto.ca
-
+- 📫 How to reach me rodrigofelga@icloud.com
 <!---
-rodrigofelga/rodrigofelga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Thanks for visiting my GitHub.
 --->
