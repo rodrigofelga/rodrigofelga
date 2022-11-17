@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <ol>
+    <ul>
       <li>- 👋 Hi, I’m @rodrigofelga</li>
       - 👀 I’m interested in developing several random things.
       - 🌱 I’m currently learning REACT.
