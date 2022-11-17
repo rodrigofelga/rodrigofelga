@@ -10,7 +10,7 @@
           <li> 🌱 I’m currently learning REACT.</li>
           <li> 💞️ I'm looking to collaborate on Front-End/Web Design.</li>
           <li> 📫 How to reach me rodrigofelga@icloud.com </li>
-        </ul>##.
+        </ul>
   
-  Check my portfolio: [rodrigofelga.com](https://www.rodrigofelga.com) 
+ ## Check my portfolio: [rodrigofelga.com](https://www.rodrigofelga.com) 
 
