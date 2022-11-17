@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CatPhotoApp</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
   <body>
-    <head>
-      <title>Rodrigo Felga</title>
-    </head>
         <ul>
           <li> 👋 Hi, I’m @rodrigofelga </li>
           <li> 👀 I’m interested in developing several random things.</li>
