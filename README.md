@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <head>
+      <title>Rodrigo Felga</title>
+    </head>
     <ul>
       <li> 👋 Hi, I’m @rodrigofelga </li>
       <li> 👀 I’m interested in developing several random things.</li>
