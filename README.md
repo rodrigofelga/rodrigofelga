@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<body>
-  <html>
+<html>
+  <body>
 - 👋 Hi, I’m @rodrigofelga
 - 👀 I’m interested in developing several random things.
 - 🌱 I’m currently learning REACT.
@@ -11,5 +11,6 @@ Thanks for visiting my GitHub.
 --->
 
       <p>Check my portfolio: <a href="https://www.rodrigofelga.com">rodrigofelga.com</a></p> 
-  </html>        
-</body>
+  
+   </body>
+ </html>        
