@@ -10,7 +10,7 @@
     </ol>
       <p>Check my portfolio: <a href="https://www.rodrigofelga.com">rodrigofelga.com</a></p> 
 
-      <!-- Thanks for visiting my GitHub. -->
+      <!--- Thanks for visiting my GitHub. --->
   
    </body>
  </html>        
