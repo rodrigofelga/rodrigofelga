@@ -1,9 +1,3 @@
-# RODRIGO FELGA
-  <link href="styles.css" rel="stylesheet" />
-</head>
-  <br>
-  <br>
-  <body>
         <ul>
           <li> 👋 Hi, I’m @rodrigofelga </li>
           <li> 👀 I’m interested in developing several random things.</li>
