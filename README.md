@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  # RODRIGO FELGA
+# RODRIGO FELGA
   <link href="styles.css" rel="stylesheet" />
 </head>
   <br>
