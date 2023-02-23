@@ -4,3 +4,6 @@
 - 💞️ I'm looking to collaborate on Front-End/Web Design.
 - 📫 How to reach me <a href="mailto:rodrigofelga@icloud.com">here!</a>
 - 🌐 Check my portfolio: <a href="https://www.rodrigofelga.com">rodrigofelga.com</a>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigofelga&show_icons=true&locale=en&layout=compact" alt="rodrigofelga" /></p>
